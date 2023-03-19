@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f160124b-4634-40e9-bddc-1878e230fd1e" name="Changes" comment="matplotlib &amp; numpy &amp; pandas">
+    <list default="true" id="f160124b-4634-40e9-bddc-1878e230fd1e" name="Changes" comment="matrix and tensor">
+      <change beforePath="$PROJECT_DIR$/.idea/probability_statistics_and_machine_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/probability_statistics_and_machine_learning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scientiﬁc_Python/_numpy/array_&amp;_memory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Scientiﬁc_Python/_numpy/array_&amp;_memory.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scientiﬁc_Python/_numpy/basic_numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Scientiﬁc_Python/_numpy/basic_numpy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scientiﬁc_Python/_numpy/numpy_matrix.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scientiﬁc_Python/_numpy/numpy_broadcasting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Scientiﬁc_Python/_numpy/numpy_broadcasting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scientiﬁc_Python/_numpy/sparse_matri.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f59aba0d-5224-436a-9e59-4360ad5d3b56" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -36,12 +39,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/bs815/Downloads/Learning/study/lab1_array_partone.ipynb&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bs815/Desktop/probability_statistics_and_machine_learning&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -77,7 +80,27 @@
       <workItem from="1676341376261" duration="2466000" />
       <workItem from="1676427830017" duration="2918000" />
       <workItem from="1676472755384" duration="2524000" />
-      <workItem from="1676475331215" duration="1550000" />
+      <workItem from="1676475331215" duration="2218000" />
+      <workItem from="1676523194244" duration="602000" />
+      <workItem from="1676687066959" duration="3361000" />
+      <workItem from="1676715805799" duration="3616000" />
+      <workItem from="1676732810119" duration="748000" />
+      <workItem from="1676860554746" duration="1384000" />
+      <workItem from="1677466323690" duration="1235000" />
+      <workItem from="1677564986852" duration="367000" />
+      <workItem from="1677568431332" duration="14000" />
+      <workItem from="1677898430124" duration="615000" />
+      <workItem from="1678033205498" duration="614000" />
+      <workItem from="1678080540446" duration="20000" />
+      <workItem from="1678538198615" duration="3347000" />
+      <workItem from="1678619718360" duration="599000" />
+      <workItem from="1678630676128" duration="6583000" />
+      <workItem from="1678671037102" duration="1279000" />
+      <workItem from="1679067891602" duration="1591000" />
+      <workItem from="1679207932537" duration="2395000" />
+      <workItem from="1679210800266" duration="33000" />
+      <workItem from="1679210842457" duration="346000" />
+      <workItem from="1679211539115" duration="14626000" />
     </task>
     <task id="LOCAL-00001" summary="matplotlib &amp; numpy">
       <created>1675529424497</created>
@@ -93,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675614437206</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="matrix and tensor">
+      <created>1676476940033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676476940033</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +132,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="matplotlib &amp; numpy" />
     <MESSAGE value="matplotlib &amp; numpy &amp; pandas" />
-    <option name="LAST_COMMIT_MESSAGE" value="matplotlib &amp; numpy &amp; pandas" />
+    <MESSAGE value="matrix and tensor" />
+    <option name="LAST_COMMIT_MESSAGE" value="matrix and tensor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -116,6 +147,16 @@
           <url>notebook:///home/bs815/Desktop/study/probability_statistics_and_machine_learning/Scientiﬁc_Python/_matplotlib/level_&amp;_title.ipynb</url>
           <line>31</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/bs815/Desktop/study/probability_statistics_and_machine_learning/ml_algorithm/Supervised ML Algo/linear_regression.ipynb</url>
+          <line>47</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/bs815/Desktop/study/probability_statistics_and_machine_learning/ml_algorithm/Supervised ML Algo/linear_regression.ipynb</url>
+          <line>50</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
