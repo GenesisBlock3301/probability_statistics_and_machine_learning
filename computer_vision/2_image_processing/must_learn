@@ -1,0 +1,31 @@
+✅ Phase 1: Essential Image Processing for Beginners
+
+These will help you understand how images work and prepare datasets for DL models:
+
+    Grayscaling of Images
+
+    Image Resizing
+
+    Blurring an Image
+
+    Edge Detection (Canny or Sobel)
+
+    Scaling, Rotating, Shifting (Geometric Transformations)
+
+    Histogram Analysis
+
+        Analyze an image using Histogram
+
+        Histograms Equalization
+
+    Simple Thresholding
+
+    Adaptive Thresholding
+
+    Otsu Thresholding
+
+    Segmentation using Thresholding
+
+    Morphological Operations (Erosion, Dilation)
+
+    Morphological Operations (Opening, Closing, Gradient)
